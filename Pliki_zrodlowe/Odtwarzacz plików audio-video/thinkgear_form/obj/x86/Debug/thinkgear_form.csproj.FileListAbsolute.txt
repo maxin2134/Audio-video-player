@@ -1,0 +1,125 @@
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\bin\Debug\thinkgear.dll
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.ProgramForm.resources
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Downloads\thinkgear-csharp-starter-master\thinkgear-csharp-starter-master\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\bin\Debug\thinkgear.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.ProgramForm.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\bin\Debug\thinkgear.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.ProgramForm.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.Welcome.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2\thinkgear_form\obj\x86\Debug\thinkgear_form.AudioVideoPlayer.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\thinkgear.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.AudioVideoPlayer.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.Welcome.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CopyComplete
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\Jayrock.Json.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\NLog.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#2 - Kopia\thinkgear_form\bin\Debug\NLog.xml
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\Jayrock.Json.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\NLog.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\ThinkGear.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\NLog.xml
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.AudioVideoPlayer.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.Welcome.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CopyComplete
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\Jayrock.Json.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\NLog.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\ThinkGear.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\NLog.xml
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.AudioVideoPlayer.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.Welcome.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CopyComplete
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#3 - Kopia\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\thinkgear_form.exe.config
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\Jayrock.Json.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\NLog.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\ThinkGear.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\NLog.xml
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.csprojAssemblyReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.ResolveComReference.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.AudioVideoPlayer.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.Welcome.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.Properties.Resources.resources
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.csproj.CopyComplete
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.exe
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.pdb
+C:\Users\USER\Desktop\Praca inżynierska\Aplikacje\thinkgearC#4\thinkgear_form\obj\x86\Debug\thinkgear_form.Exit.resources
